@@ -1,0 +1,28 @@
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe.config
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csprojAssemblyReference.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csproj.CoreCompileInputs.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe.config
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csprojAssemblyReference.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csproj.CoreCompileInputs.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe.config
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csprojAssemblyReference.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csproj.CoreCompileInputs.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Copia - Copia\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe.config
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\bin\Debug\Produtor  x Consumidor.pdb
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csprojAssemblyReference.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.csproj.CoreCompileInputs.cache
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.exe
+D:\Drive\PUC Materiais\4° Semestre\Sistemas Operacionais\Trabalho Produtor  x Consumidor\Produtor  x Consumidor - Final\Produtor  x Consumidor\obj\Debug\Produtor  x Consumidor.pdb
