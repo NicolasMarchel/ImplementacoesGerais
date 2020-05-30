@@ -1,0 +1,21 @@
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\bin\Debug\serialização.exe.config
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\bin\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\bin\Debug\serialização.pdb
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\obj\Debug\serialização.csprojAssemblyReference.cache
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\obj\Debug\serialização.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\obj\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\Algoritmos\serialização\serialização\obj\Debug\serialização.pdb
+C:\Users\Nicolas\Downloads\serialização\serialização\bin\Debug\serialização.exe.config
+C:\Users\Nicolas\Downloads\serialização\serialização\bin\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\serialização\serialização\bin\Debug\serialização.pdb
+C:\Users\Nicolas\Downloads\serialização\serialização\obj\Debug\serialização.csprojAssemblyReference.cache
+C:\Users\Nicolas\Downloads\serialização\serialização\obj\Debug\serialização.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\serialização\serialização\obj\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\serialização\serialização\obj\Debug\serialização.pdb
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\bin\Debug\serialização.exe.config
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\bin\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\bin\Debug\serialização.pdb
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\obj\Debug\serialização.csprojAssemblyReference.cache
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\obj\Debug\serialização.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\obj\Debug\serialização.exe
+C:\Users\Nicolas\Downloads\Algoritmos\serialização 2.0\serialização\obj\Debug\serialização.pdb
